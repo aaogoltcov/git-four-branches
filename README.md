@@ -49,3 +49,10 @@ git switch <branch>
 ```
 git switch -c <new> <start-point>
 ```
+
+## Создание тегов
+
+Git позволяет создать тег для ссылки на конкретный коммит.
+```
+git tag stable-1 1b2e1d63ff
+```
