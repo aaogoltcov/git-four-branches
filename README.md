@@ -14,10 +14,10 @@ Git — это быстрая распределенная система кон
 Несколько примеров для клонирования:
 
 ```
-# Git itself (approx. 40MB download):
+# Git itself:
 $ git clone git://git.kernel.org/pub/scm/git/git.git
 
-# the Linux kernel (approx. 640MB download):
+# the Linux kernel:
 $ git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 ```
 
